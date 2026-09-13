@@ -1,0 +1,38 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+      <loc>https://zhangyw.work/</loc>
+    </url>
+    <url>
+      <loc>https://zhangyw.work/file/resume.pdf</loc>
+    </url>
+    <url>
+      <loc>https://zhangyw.work/publications/</loc>
+    </url>    
+    <!-- <url>
+      <loc>https://caihanlin.com/projects/</loc>
+    </url> -->
+    <url>
+      <loc>https://zhangyw.work/awards/</loc>
+    </url>   
+    <!-- <url>
+      <loc>https://caihanlin.com/hobbies/</loc>
+    </url>-->
+    <url>
+      <loc>https://zhangyw.work/service/</loc>
+    </url>
+
+    {% comment %}
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+    </url>
+    {% endfor %}
+    {% endcomment %}
+</urlset>
+
+<!-- 这个页面是否配置并不影响正常显示，重点关注_config.yml文件的配置即可 -->
+<!-- Lastly update by Yuwei Zhang in 2023/09/25 -->
