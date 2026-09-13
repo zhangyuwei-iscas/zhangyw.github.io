@@ -16,20 +16,21 @@ Before I came to ISCAS, I spent two years as a post-doctoral associate affiliate
 
 ## News
 
-- &#128640; **[2026-03-25]** Our paper "Understanding Code Similarity across Instruction Set Architectures: An Empirical Study" has been accepted by FSE 2026 (CCF-A).
-- &#128640; **[2025-12-17]** Our paper "Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions" has been accepted by ICSE 2026 (CCF-A).
+- &#128640; **[2026-07-12]** One paper has been accepted by SPE (CCF-B).
+- &#128640; **[2026-03-25]** One paper has been accepted by FSE 2026 (CCF-A).
+- &#128640; **[2025-12-17]** One paper has been accepted by ICSE 2026 (CCF-A).
 - &#128640; **[2025-12-10]** **CITYWALK** has been accepted for presentation at the the Journal-First Track of ICSE'26. Looking forward to share our latest results about C++ unit test generation. Feel free to talk to us.
-- &#128640; **[2025-10-16]** Our paper "RISE: Rule-Driven SQL Dialect Translation via Query Reduction" has been accepted by ICSE 2026 (CCF-A).
-- &#128640; **[2025-08-11]** Our paper "CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge" has been accepted by TOSEM (CCF-A).
+- &#128640; **[2025-10-16]** One paper has been accepted by ICSE 2026 (CCF-A).
+- &#128640; **[2025-08-11]** One paper has been accepted by TOSEM (CCF-A).
 - &#128640; **[2025-04-03]** **PATCH** has been accepted for presentation at the the Journal-First Track of FSE'25. Looking forward to share our latest results about LLM-driven bug fixing. Feel free to talk to us.
-- &#128640; **[2025-02-03]** Our paper "PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing" has been accepted by TOSEM (CCF-A).
+- &#128640; **[2025-02-03]** One paper has been accepted by TOSEM (CCF-A).
 - &#127881; **[2024-11-17]** I am honored to become an executive member of the Technical Committee of Software Engineering (CCF TCSE)!
 - &#127881; **[2024-09-01]** I am honored to be selected and funded by the Excellent Young Scientists of Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所优秀青年科技人才计划).
-- &#128640; **[2023-12-30]** Our paper "SAGA: Summarization-Guided Assert Statement Generation" has been accepted by JCST (CCF-B).
-- &#128640; **[2023-12-14]** Our paper "Defect Category Prediction based on Multi-Source Domian Adaptation" has been accepted by Journal of Software (软件学报) (CCF-A 中文).
-- &#128640; **[2023-09-25]** Our paper "Automatic Foreign Function Interface Generation Method based on Source Code Analysis" has been accepted by Journal of Computer Applications (计算机应用) (CCF-B 中文).
-- &#128640; **[2023-09-01]** Our paper "Vulnerability Name Prediction Based on Enhanced Multi-Source Domain Adaptation" has been accepted by TrustCom (CCF-C).
+- &#128640; **[2023-12-30]** One paper has been accepted by JCST (CCF-B).
+- &#128640; **[2023-12-14]** One paper has been accepted by Journal of Software (软件学报) (CCF-A 中文).
+- &#128640; **[2023-09-25]** One paper has been accepted by Journal of Computer Applications (计算机应用) (CCF-B 中文).
+- &#128640; **[2023-09-01]** One paper has been accepted by TrustCom (CCF-C).
 - &#127881; **[2023-08-07]** I am excited to join ISCAS as an Assistant Professor.
-- &#128640; **[2023-06-07]** Our paper "Automated Static Warning Identification via Path-Based Semantic Representation" has been accepted by Journal of Software (软件学报) (CCF-A 中文).
-- &#127881; **[2021-09-09]** I am excited to join PKU as a Post-Doctoral Research Fellow (working with Prof. Zhi Jin).
+- &#128640; **[2023-06-07]** One paper has been accepted by Journal of Software (软件学报) (CCF-A 中文).
+- &#127881; **[2021-09-09]** I am excited to join PKU as a Post-Doctoral Research Fellow (working with Prof. Zhi Jin and Prof. Ge Li).
 - &#127881; **[2021-05-21]** I successfully defended my Ph.D. thesis. Cheers!
