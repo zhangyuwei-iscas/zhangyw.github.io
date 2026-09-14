@@ -15,9 +15,6 @@ owner:
 # https://search.google.com/search-console/ownership
 google_verify: "Og4KBW1Mh4piS1XfFFdzkKhjofyUvibDbPNWw029Scc"
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
