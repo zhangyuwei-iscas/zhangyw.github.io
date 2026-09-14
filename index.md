@@ -8,8 +8,8 @@ layout: home
 <h1 id="about-me" class="section-title">🌟 About Me</h1>
 
 <p class="lead">
-  I am currently an associate professor in the <a href="http://www.tcse.cn/" target="_blank" rel="noopener noreferrer">Technology Center of Software Engineering (TCSE)</a>
-  at the <a href="http://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software Chinese Academy of Sciences (ISCAS)</a>.
+  I am currently an associate professor in the <a href="https://www.tcse.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Technology Center of Software Engineering (TCSE)</a>
+  at the <a href="https://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software, Chinese Academy of Sciences (ISCAS)</a>.
 </p>
 
 <p>
@@ -45,11 +45,6 @@ layout: home
   </div>
   <div class="exp-desc">Hosted by Prof. <a href="http://faculty.pku.edu.cn/zhijin" target="_blank" rel="noopener noreferrer">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Ge Li</a>.</div>
 </div>
-
-<!-- ==========================================================================
-     EDUCATION SECTION
-     ========================================================================== -->
-<h1 id="education" class="section-title">🎓 Education</h1>
 
 <div class="exp-card">
   <div class="exp-header">
@@ -386,7 +381,10 @@ layout: home
   <li><span class="modern-list-date">2021 &#8211; present</span><span class="modern-list-content"><strong>China Computer Federation (CCF) Member</strong></span></li>
 </ul>
 
-<h2 class="section-title subsection-title">Teaching</h2>
+<!-- ==========================================================================
+     TEACHING SECTION
+     ========================================================================== -->
+<h1 id="teaching" class="section-title">📖 Teaching</h1>
 
 <ul class="modern-list">
   <li><span class="modern-list-date">2021</span><span class="modern-list-content"><strong>Formal Language and Automata</strong>, Teaching Assistant, Peking University</span></li>
