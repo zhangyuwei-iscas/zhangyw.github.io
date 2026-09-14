@@ -27,24 +27,6 @@ google_verify: "Og4KBW1Mh4piS1XfFFdzkKhjofyUvibDbPNWw029Scc"
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Home
-    url: /
-  - title: Publications
-    url: /publications/
-  - title: Service
-    url: /service/
-  - title: Awards
-    url: /awards/
-  #- title: Resume
-  #  url: /file/resume.pdf
-  #- title: Hobbies
-  #  url: /hobbies/
-  #- title: Blogs
-  #  url: /blogs/
-
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
@@ -72,10 +54,6 @@ kramdown:
   #   coderay_bold_every: 10
   #   coderay_css: class
 
-
-# disqus settings:
-disqus:
-  shortname: zhang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace", "backup", "task_plan.md", "findings.md", "progress.md", "README.md"]
