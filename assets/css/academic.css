@@ -273,6 +273,14 @@ body {
   margin-top: 14px;
 }
 
+/* Spread the five quick-link pills edge-to-edge when the info column is roomy;
+   below this width the pills wrap, where left alignment looks better */
+@media (min-width: 1200px) {
+  .quick-links {
+    justify-content: space-between;
+  }
+}
+
 .quick-link {
   display: inline-flex;
   align-items: center;
@@ -406,6 +414,40 @@ a:hover {
   color: var(--callout-text);
   font-size: 0.93rem;
   line-height: 1.65;
+}
+
+/* Recruiting callout: light red block with megaphone icon */
+.recruit-callout {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin: 18px 0 0;
+  padding: 12px 16px;
+  background: #fff1f2;
+  border: 1px solid #fecdd3;
+  border-left: 3.5px solid #e11d48;
+  border-radius: 10px;
+  color: #9f1239;
+  font-size: 0.93rem;
+  font-weight: 600;
+  line-height: 1.65;
+}
+
+.recruit-callout-icon {
+  flex-shrink: 0;
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.recruit-callout a {
+  color: #be123c;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.recruit-callout a:hover {
+  color: #9f1239;
 }
 
 /* ==========================================================================

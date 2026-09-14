@@ -16,6 +16,7 @@
       "#main-content .subsection-title",
       "#main-content .lead",
       "#main-content .collab-callout",
+      "#main-content .recruit-callout",
       "#main-content .publications-toolbar",
       "#main-content .paper-card",
       "#main-content .exp-card",

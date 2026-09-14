@@ -19,6 +19,11 @@ layout: home
   (including coding, testing, and maintenance) toward greater autonomy, reliability, and efficiency.
 </p>
 
+<div class="recruit-callout">
+  <span class="recruit-callout-icon">📢</span>
+  <span>I&#8217;m actively looking for highly self-motivated undergraduate students and new graduates to join us. If my research catches your eye, just <a href="mailto:zhangyuwei@iscas.ac.cn">shoot me your CV</a> directly!</span>
+</div>
+
 <!-- ==========================================================================
      EXPERIENCE SECTION
      ========================================================================== -->
