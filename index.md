@@ -9,7 +9,7 @@ layout: home
 
 <p class="lead">
   I am currently an associate professor in the <a href="https://www.tcse.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Technology Center of Software Engineering (TCSE)</a>
-  at the <a href="https://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software, Chinese Academy of Sciences (ISCAS)</a>.
+  at the <a href="https://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software Chinese Academy of Sciences (ISCAS)</a>.
 </p>
 
 <p>
