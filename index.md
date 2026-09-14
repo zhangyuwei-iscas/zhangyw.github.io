@@ -27,47 +27,55 @@ layout: home
 <!-- ==========================================================================
      EXPERIENCE SECTION
      ========================================================================== -->
-<h1 id="experience" class="section-title">💼 Experience</h1>
+<h1 id="experience" class="section-title">💼 Educational & Work Experience</h1>
 
 <div class="exp-card">
   <div class="exp-header">
-    <div class="exp-title">Associate Professor</div>
-    <div class="exp-date">2023 &#8211; Present</div>
+    <div class="exp-title">👨‍🏫 Associate Professor</div>
+    <div class="exp-org">
+      <span>🏢 Institute of Software Chinese Academy of Sciences</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Oct. 2025 &#8211; Present</span></div>
   </div>
-  <div class="exp-org">
-    <span><a href="http://www.tcse.cn/" target="_blank" rel="noopener noreferrer">Technology Center of Software Engineering (TCSE)</a>, <a href="http://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software, Chinese Academy of Sciences (ISCAS)</a></span>
-  </div>
-  <div class="exp-desc">Research on software engineering and artificial intelligence (SE + AI).</div>
 </div>
 
 <div class="exp-card">
   <div class="exp-header">
-    <div class="exp-title">Post-Doctoral Research Fellow</div>
-    <div class="exp-date">2021 &#8211; 2023</div>
+    <div class="exp-title">👨‍🏫 Assistant Professor</div>
+    <div class="exp-org">
+      <span>🏢 Institute of Software Chinese Academy of Sciences</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Aug. 2023 &#8211; Oct. 2025</span></div>
   </div>
-  <div class="exp-org">
-    <span>SEKE Lab, <a href="http://hcst.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Key Laboratory of High Confidence Software Technologies, Ministry of Education</a>, <a href="https://www.pku.edu.cn" target="_blank" rel="noopener noreferrer">Peking University (PKU)</a></span>
-  </div>
-  <div class="exp-desc">Hosted by Prof. <a href="http://faculty.pku.edu.cn/zhijin" target="_blank" rel="noopener noreferrer">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Ge Li</a>.</div>
 </div>
 
 <div class="exp-card">
   <div class="exp-header">
-    <div class="exp-title">Ph.D. in Computer Science and Technology</div>
-    <div class="exp-date">Defended in 2021</div>
+    <div class="exp-title">🧑‍🔬 Post-Doctoral Research Fellow</div>
+    <div class="exp-org">
+      <span>🏢 Peking University</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Sep. 2021 &#8211; Jul. 2023</span></div>
   </div>
-  <div class="exp-org">
-    <span><a href="https://scs.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science (National Pilot Software Engineering School)</a>, <a href="https://www.bupt.edu.cn" target="_blank" rel="noopener noreferrer">Beijing University of Posts and Telecommunications (BUPT)</a></span>
-  </div>
-  <div class="exp-desc">Advised by Prof. <a href="https://scs.bupt.edu.cn/info/1292/2713.htm" target="_blank" rel="noopener noreferrer">Yunzhan Gong</a>.</div>
 </div>
 
 <div class="exp-card">
   <div class="exp-header">
-    <div class="exp-title">B.E. in Network Engineering</div>
+    <div class="exp-title">🎓 Ph.D. in Computer Science and Technology</div>
+    <div class="exp-org">
+      <span>🏢 Beijing University of Posts and Telecommunications</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Sep. 2016 &#8211; Jun. 2021</span></div>
   </div>
-  <div class="exp-org">
-    <span><a href="https://www.bupt.edu.cn" target="_blank" rel="noopener noreferrer">Beijing University of Posts and Telecommunications (BUPT)</a></span>
+</div>
+
+<div class="exp-card">
+  <div class="exp-header">
+    <div class="exp-title">🎓 B.E. in Network Engineering</div>
+    <div class="exp-org">
+      <span>🏢 Beijing University of Posts and Telecommunications</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Sep. 2012 &#8211; Jun. 2016</span></div>
   </div>
 </div>
 
@@ -398,7 +406,7 @@ layout: home
 <!-- ==========================================================================
      HONORS & AWARDS SECTION
      ========================================================================== -->
-<h1 id="honors" class="section-title">🎖 Honors and Awards</h1>
+<h1 id="honors" class="section-title">🎖 Honors & Awards</h1>
 
 <ul class="modern-list">
   <li><span class="modern-list-date">Sep 2024</span><span class="modern-list-content"><strong>Excellent Young Scientists of Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所优秀青年科技人才计划)</strong></span></li>
