@@ -254,6 +254,12 @@ body {
   font-size: 0.98rem;
 }
 
+.role-sep {
+  font-weight: 800;
+  margin: 0 8px;
+  color: var(--muted-text);
+}
+
 .profile-research {
   margin: 0 0 5px;
   color: #334155;
@@ -312,6 +318,7 @@ body {
 }
 
 .profile-info {
+  flex: 0 1 auto;
   min-width: 0;
 }
 
@@ -319,14 +326,17 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 7px;
-  flex-shrink: 0;
+  flex: 1 1 0;
+  min-width: 0;
+  align-self: stretch;
 }
 
 .location-photo {
   display: block;
+  flex: 1 1 0;
+  min-height: 0;
   width: 100%;
-  height: 128px;
+  height: auto;
   object-fit: cover;
   object-position: 50% 100%;
   border-radius: 12px;
@@ -402,6 +412,25 @@ a:hover {
   color: #334155;
   margin-top: 8px;
   line-height: 1.7;
+  text-align: justify;
+}
+
+.lead + p {
+  text-align: justify;
+}
+
+.research-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0;
+  font-size: 0.96rem;
+  color: #334155;
+}
+
+.research-list li {
+  margin: 3px 0;
+  line-height: 1.65;
+  text-align: justify;
 }
 
 .collab-callout {
@@ -535,6 +564,7 @@ a:hover {
 .exp-card {
   background: #ffffff;
   border: 1px solid var(--border-light);
+  border-left: 3.5px solid #1f5c96;
   border-radius: 14px;
   padding: 16px 20px;
   margin-bottom: 14px;
@@ -578,8 +608,7 @@ a:hover {
   min-width: 200px;
   display: inline-flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 6px;
+  gap: 10px;
 }
 
 .exp-org {
@@ -918,10 +947,12 @@ a:hover {
   }
 
   .profile-location {
+    flex: none;
     width: 100%;
   }
 
   .location-photo {
+    flex: none;
     height: 170px;
   }
 

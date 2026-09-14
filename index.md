@@ -8,16 +8,21 @@ layout: home
 <h1 id="about-me" class="section-title">🌟 About Me</h1>
 
 <p class="lead">
-  I am currently an associate professor in the <a href="https://www.tcse.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Technology Center of Software Engineering (TCSE)</a>
-  at the <a href="https://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software Chinese Academy of Sciences (ISCAS)</a>.
+  I am currently an associate professor at the <a href="https://www.tcse.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Beijing Key Laboratory of Intelligent Software Engineering</a>,
+  <a href="https://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software Chinese Academy of Sciences (ISCAS)</a>.
+  Prior to joining ISCAS, I spent two years as a Postdoctoral Associate with the SEKE Lab in the <a href="https://hcst.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Key Laboratory of High Confidence Software Technologies, Ministry of Education</a>
+  at <a href="https://www.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University (PKU)</a>, co-hosted by <a href="https://faculty.pku.edu.cn/zhijin/" target="_blank" rel="noopener noreferrer">Prof. Zhi Jin</a> and <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Prof. Ge Li</a>. I received my Ph.D. in Computer Science and Technology from the <a href="https://scs.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science (National Pilot Software Engineering School)</a> at <a href="https://www.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing University of Posts and Telecommunications (BUPT)</a>, under the supervision of <a href="https://scs.bupt.edu.cn/info/1292/2713.htm/" target="_blank" rel="noopener noreferrer">Prof. Yunzhan Gong</a>.
 </p>
 
 <p>
-  My research sits at the intersection of software engineering and artificial intelligence <strong>(SE + AI)</strong>,
-  with a focus on creating automated, intelligent software development processes. By integrating classical program
-  analysis techniques with cutting-edge code language models, I aim to advance key aspects of the software lifecycle
-  (including coding, testing, and maintenance) toward greater autonomy, reliability, and efficiency.
+  I work on the intersection of <strong>Software Engineering</strong>, <strong>Artificial Intelligence</strong>, and <strong>System Software</strong>. My ultimate goal is to build intelligent LLM agents that automatically assure the quality and reliability of software systems. To achieve this, my current projects explore the following directions:
 </p>
+
+<ul class="research-list">
+  <li>🎯 Empowering the automation of software development lifecycle (e.g., coding, testing, and maintenance) with LLM agents.</li>
+  <li>🎯 Enhancing the reliability of system software (e.g., database management systems, RISC-V basic software) with LLM agents.</li>
+  <li>🎯 Assuring the trustworthiness of LLMs and multi-agent systems (e.g., content security, collaboration ability, and failure attribution).</li>
+</ul>
 
 <div class="recruit-callout">
   <span class="recruit-callout-icon">📢</span>
