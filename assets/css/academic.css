@@ -5,8 +5,8 @@
    ========================================================================== */
 
 :root {
-  --font-body: "DM Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-heading: "Source Serif 4", "Songti SC", "SimSun", Georgia, "Times New Roman", serif;
+  --font-body: "Nunito Sans", "Kaiti SC", "STKaiti", "KaiTi", "DFKai-SB", "PingFang SC", "Microsoft YaHei", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-heading: "Nunito Sans", "Kaiti SC", "STKaiti", "KaiTi", "DFKai-SB", Georgia, "Times New Roman", sans-serif;
   --primary-text: #0f172a;
   --secondary-text: #475569;
   --muted-text: #64748b;
@@ -204,6 +204,23 @@ body {
 
 .profile-avatar:hover {
   transform: scale(1.03);
+}
+
+.profile-avatar-wrap {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.profile-tagline {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-style: italic;
+  font-size: 0.88rem;
+  color: var(--secondary-text);
+  text-align: center;
 }
 
 .profile-name {

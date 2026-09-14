@@ -1,8 +1,11 @@
 <header class="profile-header">
-  <img class="profile-avatar" src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} avatar">
+  <div class="profile-avatar-wrap">
+    <img class="profile-avatar" src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} avatar">
+    <p class="profile-tagline">{{ site.description }}</p>
+  </div>
   <div>
     <h1 class="profile-name">Yuwei Zhang (张俞炜)</h1>
-    <p class="profile-role">Associate Professor @ <a href="http://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software, Chinese Academy of Sciences (ISCAS)</a></p>
+    <p class="profile-role">Associate Professor @ Institute of Software Chinese Academy of Sciences</p>
     <p class="profile-research"><span class="label-strong">Research:</span> Software Engineering &middot; Artificial Intelligence &middot; System Software</p>
     <div class="quick-links">
       <!-- Google Scholar -->

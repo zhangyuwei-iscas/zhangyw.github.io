@@ -122,7 +122,7 @@ layout: home
     <span class="conf-badge">FSE 2026</span>
     <span class="ccf-badge">CCF-A</span>
   </div>
-  <div class="paper-venue">In: <em>Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE)</em></div>
+  <div class="paper-venue">In: Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering (FSE)</div>
 </div>
 
 <div class="paper-card">
@@ -132,7 +132,7 @@ layout: home
     <span class="conf-badge">ICSE 2026</span>
     <span class="ccf-badge">CCF-A</span>
   </div>
-  <div class="paper-venue">In: <em>Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)</em></div>
+  <div class="paper-venue">In: Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)</div>
 </div>
 
 <div class="paper-card">
@@ -142,7 +142,7 @@ layout: home
     <span class="conf-badge">ICSE 2026</span>
     <span class="ccf-badge">CCF-A</span>
   </div>
-  <div class="paper-venue">In: <em>Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)</em></div>
+  <div class="paper-venue">In: Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)</div>
 </div>
 
 <h3 class="subsection-title" style="color: var(--accent-color);">2025</h3>
@@ -154,7 +154,7 @@ layout: home
     <span class="conf-badge">TOSEM 2025</span>
     <span class="ccf-badge">CCF-A</span>
   </div>
-  <div class="paper-venue">In: <em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em></div>
+  <div class="paper-venue">In: ACM Transactions on Software Engineering and Methodology (TOSEM)</div>
   <div class="paper-note">&#128640; Invited to be presented at the ICSE'26 Journal-First Track</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhang2025TOSEM_B.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
@@ -168,7 +168,7 @@ layout: home
     <span class="conf-badge">TOSEM 2025</span>
     <span class="ccf-badge">CCF-A</span>
   </div>
-  <div class="paper-venue">In: <em>ACM Transactions on Software Engineering and Methodology (TOSEM)</em></div>
+  <div class="paper-venue">In: ACM Transactions on Software Engineering and Methodology (TOSEM)</div>
   <div class="paper-note">&#128640; Invited to be presented at the FSE'25 Journal-First Track</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhang2025TOSEM_A.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
@@ -182,7 +182,7 @@ layout: home
     <span class="conf-badge">JCST 2025</span>
     <span class="ccf-badge">CCF-B</span>
   </div>
-  <div class="paper-venue">In: <em>Journal of Computer Science and Technology (JCST)</em></div>
+  <div class="paper-venue">In: Journal of Computer Science and Technology (JCST)</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhang2025JCST.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
@@ -197,7 +197,7 @@ layout: home
     <span class="conf-badge">JOS 2024</span>
     <span class="ccf-badge">CCF-A</span>
   </div>
-  <div class="paper-venue">In: <em>Journal of Software (软件学报)</em></div>
+  <div class="paper-venue">In: Journal of Software (软件学报)</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Xing2023JOS.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
@@ -210,7 +210,7 @@ layout: home
     <span class="conf-badge">JCA 2024</span>
     <span class="ccf-badge">CCF-B</span>
   </div>
-  <div class="paper-venue">In: <em>Journal of Computer Applications (计算机应用)</em></div>
+  <div class="paper-venue">In: Journal of Computer Applications (计算机应用)</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Sun2023JCA.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
@@ -223,7 +223,7 @@ layout: home
     <span class="conf-badge">JOS 2024</span>
     <span class="ccf-badge">CCF-A</span>
   </div>
-  <div class="paper-venue">In: <em>Journal of Software (软件学报)</em></div>
+  <div class="paper-venue">In: Journal of Software (软件学报)</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhang2023JOS_online.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
@@ -238,7 +238,7 @@ layout: home
     <span class="conf-badge">TrustCom 2023</span>
     <span class="ccf-badge">CCF-C</span>
   </div>
-  <div class="paper-venue">In: <em>Proceedings of the IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</em></div>
+  <div class="paper-venue">In: Proceedings of the IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)</div>
   <div class="paper-links">
     <a href="https://ieeexplore.ieee.org/document/10538701" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">URL</a>
   </div>
@@ -253,7 +253,7 @@ layout: home
     <span class="conf-badge">IST 2022</span>
     <span class="ccf-badge">CCF-B</span>
   </div>
-  <div class="paper-venue">In: <em>Information and Software Technology (IST)</em></div>
+  <div class="paper-venue">In: Information and Software Technology (IST)</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhao2022IST.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
@@ -266,7 +266,7 @@ layout: home
     <span class="conf-badge">PRL 2022</span>
     <span class="ccf-badge">CCF-C</span>
   </div>
-  <div class="paper-venue">In: <em>Pattern Recognition Letters (PRL)</em></div>
+  <div class="paper-venue">In: Pattern Recognition Letters (PRL)</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Xing2022PRL.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
@@ -281,7 +281,7 @@ layout: home
     <span class="conf-badge">JSS 2020</span>
     <span class="ccf-badge">CCF-B</span>
   </div>
-  <div class="paper-venue">In: <em>Journal of Systems and Software (JSS)</em></div>
+  <div class="paper-venue">In: Journal of Systems and Software (JSS)</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhang2020JSS.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
@@ -294,7 +294,7 @@ layout: home
     <span class="conf-badge">Soft Computing 2020</span>
     <span class="ccf-badge">CCF-C</span>
   </div>
-  <div class="paper-venue">In: <em>Soft Computing</em></div>
+  <div class="paper-venue">In: Soft Computing</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhang2019SOCO.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
   </div>
