@@ -15,7 +15,7 @@ layout: home
 </p>
 
 <p>
-  I work on the intersection of <strong>Software Engineering</strong>, <strong>Artificial Intelligence</strong>, and <strong>System Software</strong>. My ultimate goal is to build intelligent LLM agents that automatically assure the quality and reliability of software systems. To achieve this, my current projects explore the following directions:
+  I work on the intersection of <strong>Software Engineering</strong>, <strong>Artificial Intelligence</strong>, and <strong>System Software</strong>. I aim to build intelligent LLM-based agents that automatically assure the quality and reliability of software systems. To achieve this, my current projects explore the following directions:
 </p>
 
 <ul class="research-list">
