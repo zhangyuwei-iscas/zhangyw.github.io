@@ -725,8 +725,15 @@ a:hover {
   color: var(--accent-color);
 }
 
-.site-footer .footer-map {
-  margin-top: 14px;
+.site-footer .footer-flag {
+  margin: 0 0 6px;
+}
+
+.site-footer .footer-flag img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
 }
 
 /* ==========================================================================
