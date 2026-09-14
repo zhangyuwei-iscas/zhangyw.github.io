@@ -6,8 +6,6 @@ url: https://zhangyw.work
 owner:
   name: Yuwei Zhang
   avatar: zhangyuwei.jpg
-  description: Peerless.
- # bio:
   email: zhangyuwei@iscas.ac.cn
   twitter: Wayne_bupt
   github: zhangyuwei-iscas
@@ -23,22 +21,5 @@ google_verify: "Og4KBW1Mh4piS1XfFFdzkKhjofyUvibDbPNWw029Scc"
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
-highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
 
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace", "task_plan.md", "findings.md", "progress.md", "README.md"]
+exclude: ["task_plan.md", "findings.md", "progress.md", "README.md"]
