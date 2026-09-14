@@ -457,7 +457,7 @@ layout: home
 <h1 id="teaching" class="section-title">📖 Teaching</h1>
 
 <ul class="modern-list">
-  <li><span class="modern-list-date">2021</span><span class="modern-list-content"><strong>Formal Language and Automata</strong>, Teaching Assistant, Peking University</span></li>
+  <li><span class="modern-list-date">Fall 2021</span><span class="modern-list-content"><strong>Formal Language and Automata</strong>, Teaching Assistant, Peking University</span></li>
 </ul>
 
 <!-- ==========================================================================
