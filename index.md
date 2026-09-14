@@ -71,6 +71,8 @@ layout: home
      ========================================================================== -->
 <h1 id="news" class="section-title">🔥 News</h1>
 
+<div class="news-scroll">
+
 <ul class="modern-list">
   <li><span class="modern-list-date">2026-07-12</span><span class="modern-list-content">&#128640; <strong>One paper has been accepted by SPE (CCF-B).</strong></span></li>
   <li><span class="modern-list-date">2026-03-25</span><span class="modern-list-content">&#128640; <strong>One paper has been accepted by FSE 2026 (CCF-A).</strong></span></li>
@@ -91,6 +93,8 @@ layout: home
   <li><span class="modern-list-date">2021-09-09</span><span class="modern-list-content">&#127881; I am excited to join PKU as a Post-Doctoral Research Fellow (working with Prof. Zhi Jin and Prof. Ge Li).</span></li>
   <li><span class="modern-list-date">2021-05-21</span><span class="modern-list-content">&#127881; I successfully defended my Ph.D. thesis. Cheers!</span></li>
 </ul>
+
+</div>
 
 <!-- ==========================================================================
      PUBLICATIONS SECTION

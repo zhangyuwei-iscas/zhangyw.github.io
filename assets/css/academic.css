@@ -384,6 +384,34 @@ a:hover {
 }
 
 /* ==========================================================================
+   NEWS SCROLLABLE BOX (latest 5 visible, rest scroll inside)
+   ========================================================================== */
+.news-scroll {
+  max-height: 200px;
+  overflow-y: auto;
+  padding-right: 8px;
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 transparent;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+.news-scroll::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-border);
+}
+
+/* ==========================================================================
    EXPERIENCE & EDUCATION CARDS
    ========================================================================== */
 .exp-card {
