@@ -1,9 +1,17 @@
 ---
-layout: page
+layout: null
 permalink: /awards/index.html
-title: Awards
 ---
-
-- Sep 2024: **Excellent Young Scientists of Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所优秀青年科技人才计划)**
-- Jan 2024: **中国开放指令生态 (RISC-V) 联盟生态贡献奖**
-- Aug 2020: **China Scholarship Council Scholarship (Joint-Training Ph.D. Program)**
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Awards &#8211; Yuwei Zhang (张俞炜)</title>
+  <link rel="canonical" href="https://zhangyw.work/#honors">
+  <meta http-equiv="refresh" content="0; url=https://zhangyw.work/#honors">
+</head>
+<body>
+  <p>Redirecting to <a href="https://zhangyw.work/#honors">Honors and Awards</a>&hellip;</p>
+  <script>location.replace("https://zhangyw.work/#honors");</script>
+</body>
+</html>

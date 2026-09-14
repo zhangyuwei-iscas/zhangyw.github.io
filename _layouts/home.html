@@ -1,66 +1,87 @@
-<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
-<!-- It is not recommended to modify this code, unless you are a Pro-->
-
 <!doctype html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
-
+<html lang="en">
 <head>
-{% include head.html %}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
+  <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="{{ site.owner.name }}">
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ site.url }}/images/{{ site.owner.avatar }}">
+  <meta property="og:url" content="{{ site.url }}">
 
-  gtag('config', 'G-T5N5JY1E21');
-</script>
+  {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url | remove: 'index.html' }}">
 
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{ site.url }}/images/fav.ico">
+  <link rel="shortcut icon" type="image/png" href="{{ site.url }}/images/fav.png">
+
+  <!-- Google Fonts: DM Sans (Body) & Source Serif 4 (Headings) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/academic.css">
+
+  <script src="https://cdn.counter.dev/script.js" data-id="4c8f7caa-2b55-46cd-a995-2c4633303773" data-utcoffset="8"></script>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-T5N5JY1E21"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-T5N5JY1E21');
+  </script>
 </head>
 
-<body class="home" itemscope itemtype="http://schema.org/WebPage">
+<body>
+  <!-- Sticky Top Glassmorphism Navigation -->
+  <nav class="site-nav" aria-label="Main Navigation">
+    <div class="nav-inner">
+      <a href="#" class="nav-brand" aria-label="Back to top">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+          <polyline points="9 22 9 12 15 12 15 22"/>
+        </svg>
+        <span>{{ site.owner.name }}</span>
+      </a>
+      <div class="nav-links">
+        <a href="#about-me">About</a>
+        <a href="#experience">Experience</a>
+        <a href="#news">News</a>
+        <a href="#publications">Publications</a>
+        <a href="#services">Services</a>
+        <a href="#honors">Honors</a>
+      </div>
+    </div>
+  </nav>
 
-{% include chrome-frame.html %}
+  <!-- Central Single-Column Content -->
+  <main class="main-container">
+    {% include profile-header.html %}
+    <div id="main-content">
+      {{ content }}
+    </div>
+  </main>
 
-{% include navigation.html %}
-
-<div class="image-wrap">
-  <div class="headline-wrap">
-    <h1>{{ page.title }}</h1>
-    {% if page.tagline %}<h2>{{ page.tagline }}</h2>{% endif %}
-  </div><!--/ .headline-wrap -->
-  <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image">
-</div><!-- /.image-wrap -->
-
-<div class="article-author-top">
-  {% include author-bio.html %}
-</div>
-
-<div id="index" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <a href="{{ site.url}}/articles" class="btn btn-small pull-right">View all articles</a>
-  <h3>Latest Articles</h3>
-  <hr />
-  {% for post in site.categories.articles limit:5 %}    
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <h2 itemprop="headline"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h2>
-    <p itemprop="text">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-  </article>
-  {% endfor %}
-</div><!-- /#index -->
-
-<div class="footer-wrap">
-  <footer>
-    {% include footer.html %}
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <p>&copy; <span id="current-year">2026</span> {{ site.owner.name }} &middot;
+      Published with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>,
+      powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &middot;
+      Theme adapted from <a href="https://github.com/Laip11/academic-homepage-template" target="_blank" rel="noopener noreferrer">Academic Homepage Template</a>
+    </p>
+    <div class="footer-map">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FVN7Xj-vCStz21NrkL7GLiJexTqz5m0c9ERbIEzAIlI&cl=ffffff&w=a"></script>
+    </div>
   </footer>
-</div><!-- /.footer-wrap -->
 
-{% include scripts.html %}
-  
+  <script src="{{ site.url }}/assets/js/academic.js"></script>
 </body>
 </html>
