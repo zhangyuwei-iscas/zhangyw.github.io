@@ -46,6 +46,11 @@ layout: home
   <div class="exp-desc">Hosted by Prof. <a href="http://faculty.pku.edu.cn/zhijin" target="_blank" rel="noopener noreferrer">Zhi Jin</a> and Prof. <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Ge Li</a>.</div>
 </div>
 
+<!-- ==========================================================================
+     EDUCATION SECTION
+     ========================================================================== -->
+<h1 id="education" class="section-title">🎓 Education</h1>
+
 <div class="exp-card">
   <div class="exp-header">
     <div class="exp-title">Ph.D. in Computer Science and Technology</div>

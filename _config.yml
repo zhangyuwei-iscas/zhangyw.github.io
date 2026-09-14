@@ -1,7 +1,5 @@
 title: Yuwei Zhang (张俞炜)
-# tagline: Here is personal website of Yuwei Zhang. Powered by Jekyll, based on the Minimal Mistakes theme.
 description: Peerless.
-#Comment out url when working locally to resolve base urls correctly
 url: https://zhangyw.work
 
 # Owner/author information
@@ -14,11 +12,6 @@ owner:
   twitter: Wayne_bupt
   github: zhangyuwei-iscas
   scholar: https://scholar.google.com/citations?user=ohszaiAAAAAJ
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
@@ -47,15 +40,5 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
-
-
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace", "task_plan.md", "findings.md", "progress.md", "README.md"]
-
-# Latest update in 2023/08/28 by Yuwei Zhang.
