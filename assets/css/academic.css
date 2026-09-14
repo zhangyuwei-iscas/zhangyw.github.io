@@ -634,8 +634,8 @@ a:hover {
    BENTO GRID FOR ACADEMIC SERVICES
    ========================================================================== */
 .service-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
+  flex-wrap: wrap;
   gap: 12px;
   margin-top: 14px;
 }
@@ -644,12 +644,11 @@ a:hover {
   background: #ffffff;
   border: 1px solid var(--border-light);
   border-radius: 12px;
-  padding: 13px 16px;
+  padding: 6px 12px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   gap: 6px;
-  min-height: 56px;
   transition: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
   box-shadow: 0 1px 2px rgba(15, 23, 42, 0.03);
 }
@@ -670,9 +669,38 @@ a:hover {
 .tile-conf-name {
   font-family: var(--font-heading);
   font-weight: 700;
-  font-size: 1.05rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
   color: #0f172a;
   letter-spacing: -0.01em;
+}
+
+/* CCF rank tints: A matches the publications CCF badge, B/C fade lighter */
+.service-tile.conf-a {
+  background: #fffbeb;
+  border-color: #fcd34d;
+}
+
+.service-tile.conf-a .tile-conf-name {
+  color: #b45309;
+}
+
+.service-tile.conf-b {
+  background: #fffdf3;
+  border-color: #fee9b0;
+}
+
+.service-tile.conf-b .tile-conf-name {
+  color: #c99a3b;
+}
+
+.service-tile.conf-c {
+  background: #fffefa;
+  border-color: #fff3d6;
+}
+
+.service-tile.conf-c .tile-conf-name {
+  color: #d9bc74;
 }
 
 .tile-years {

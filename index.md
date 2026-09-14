@@ -20,7 +20,7 @@ layout: home
 
 <ul class="research-list">
   <li>🎯 Empowering the automation of software development lifecycle (e.g., coding, testing, and maintenance) with LLM agents.</li>
-  <li>🎯 Enhancing the reliability of system software (e.g., database management systems, RISC-V basic software) with LLM agents.</li>
+  <li>🎯 Enhancing the reliability of system software (e.g., database systems, Web applications, and RISC-V basic software) with LLM agents.</li>
   <li>🎯 Assuring the trustworthiness of LLMs and multi-agent systems (e.g., content security, collaboration ability, and failure attribution).</li>
 </ul>
 
@@ -320,59 +320,106 @@ layout: home
 
 <h2 class="section-title subsection-title">External Conference Reviewer</h2>
 
+<h3 class="subsection-title" style="color: var(--accent-color);">2027</h3>
 <div class="service-grid">
-  <div class="service-tile">
+  <div class="service-tile conf-a">
+    <div class="tile-header">
+      <span class="tile-conf-name">ICSE</span>
+    </div>
+  </div>
+</div>
+
+<h3 class="subsection-title" style="color: var(--accent-color);">2026</h3>
+<div class="service-grid">
+  <div class="service-tile conf-a">
     <div class="tile-header">
       <span class="tile-conf-name">FSE</span>
-      <div class="tile-years"><span class="tile-year-pill">2026</span></div>
     </div>
   </div>
-  <div class="service-tile">
-    <div class="tile-header">
-      <span class="tile-conf-name">ASE</span>
-      <div class="tile-years"><span class="tile-year-pill">2025</span></div>
-    </div>
-  </div>
-  <div class="service-tile">
-    <div class="tile-header">
-      <span class="tile-conf-name">SANER</span>
-      <div class="tile-years"><span class="tile-year-pill">2025</span><span class="tile-year-pill">2023</span><span class="tile-year-pill">2022</span></div>
-    </div>
-  </div>
-  <div class="service-tile">
+  <div class="service-tile conf-c">
     <div class="tile-header">
       <span class="tile-conf-name">APSEC</span>
-      <div class="tile-years"><span class="tile-year-pill">2025</span><span class="tile-year-pill">2024</span><span class="tile-year-pill">2023</span></div>
     </div>
   </div>
-  <div class="service-tile">
+</div>
+
+<h3 class="subsection-title" style="color: var(--accent-color);">2025</h3>
+<div class="service-grid">
+  <div class="service-tile conf-a">
+    <div class="tile-header">
+      <span class="tile-conf-name">ASE</span>
+    </div>
+  </div>
+  <div class="service-tile conf-b">
+    <div class="tile-header">
+      <span class="tile-conf-name">SANER</span>
+    </div>
+  </div>
+  <div class="service-tile conf-c">
+    <div class="tile-header">
+      <span class="tile-conf-name">APSEC</span>
+    </div>
+  </div>
+  <div class="service-tile conf-c">
     <div class="tile-header">
       <span class="tile-conf-name">QRS</span>
-      <div class="tile-years"><span class="tile-year-pill">2025</span><span class="tile-year-pill">2024</span></div>
     </div>
   </div>
-  <div class="service-tile">
+</div>
+
+<h3 class="subsection-title" style="color: var(--accent-color);">2024</h3>
+<div class="service-grid">
+  <div class="service-tile conf-c">
+    <div class="tile-header">
+      <span class="tile-conf-name">APSEC</span>
+    </div>
+  </div>
+  <div class="service-tile conf-c">
+    <div class="tile-header">
+      <span class="tile-conf-name">QRS</span>
+    </div>
+  </div>
+</div>
+
+<h3 class="subsection-title" style="color: var(--accent-color);">2023</h3>
+<div class="service-grid">
+  <div class="service-tile conf-b">
+    <div class="tile-header">
+      <span class="tile-conf-name">SANER</span>
+    </div>
+  </div>
+  <div class="service-tile conf-b">
     <div class="tile-header">
       <span class="tile-conf-name">ICSOC</span>
-      <div class="tile-years"><span class="tile-year-pill">2023</span></div>
     </div>
   </div>
-  <div class="service-tile">
+  <div class="service-tile conf-c">
+    <div class="tile-header">
+      <span class="tile-conf-name">APSEC</span>
+    </div>
+  </div>
+  <div class="service-tile conf-c">
     <div class="tile-header">
       <span class="tile-conf-name">ICST</span>
-      <div class="tile-years"><span class="tile-year-pill">2023</span></div>
     </div>
   </div>
-  <div class="service-tile">
-    <div class="tile-header">
-      <span class="tile-conf-name">ICSE-SEIP</span>
-      <div class="tile-years"><span class="tile-year-pill">2022</span></div>
-    </div>
-  </div>
-  <div class="service-tile">
+</div>
+
+<h3 class="subsection-title" style="color: var(--accent-color);">2022</h3>
+<div class="service-grid">
+  <div class="service-tile conf-b">
     <div class="tile-header">
       <span class="tile-conf-name">ISSRE</span>
-      <div class="tile-years"><span class="tile-year-pill">2022</span></div>
+    </div>
+  </div>
+  <div class="service-tile conf-b">
+    <div class="tile-header">
+      <span class="tile-conf-name">SANER</span>
+    </div>
+  </div>
+  <div class="service-tile conf-c">
+    <div class="tile-header">
+      <span class="tile-conf-name">ICSE-SEIP</span>
     </div>
   </div>
 </div>
@@ -380,15 +427,20 @@ layout: home
 <h2 class="section-title subsection-title">Journal Reviewer</h2>
 
 <ul class="modern-list">
+  <li><span class="modern-list-content"><strong>ACM Transactions on Software Engineering and Methodology</strong></span></li>
+  <li><span class="modern-list-content"><strong>IEEE Transactions on Software Engineering</strong></span></li>
+  <li><span class="modern-list-content"><strong>Journal of Software (软件学报)</strong></span></li>
+  <li><span class="modern-list-content"><strong>Journal of Computer Research and Development (计算机研究与发展)</strong></span></li>
+  <li><span class="modern-list-content"><strong>Empirical Software Engineering</strong></span></li>
+  <li><span class="modern-list-content"><strong>Automated Software Engineering</strong></span></li>
+  <li><span class="modern-list-content"><strong>ACM Transactions on Autonomous and Adaptive Systems</strong></span></li>
+  <li><span class="modern-list-content"><strong>Software Quality Journal</strong></span></li>
   <li><span class="modern-list-content"><strong>IEEE Transactions on Reliability</strong></span></li>
   <li><span class="modern-list-content"><strong>Knowledge and Information Systems</strong></span></li>
-  <li><span class="modern-list-content"><strong>Scientific Reports</strong></span></li>
   <li><span class="modern-list-content"><strong>Journal of Supercomputing</strong></span></li>
   <li><span class="modern-list-content"><strong>Engineering Applications of Artificial Intelligence</strong></span></li>
-  <li><span class="modern-list-content"><strong>Journal of Software (软件学报)</strong></span></li>
-  <li><span class="modern-list-content"><strong>ACM Transactions on Autonomous and Adaptive Systems</strong></span></li>
-  <li><span class="modern-list-content"><strong>ACM Transactions on Software Engineering and Methodology</strong></span></li>
-  <li><span class="modern-list-content"><strong>Software Quality Journal</strong></span></li>
+  <li><span class="modern-list-content"><strong>Scientific Reports</strong></span></li>
+  <li><span class="modern-list-content"><strong>Tsinghua Science and Technology</strong></span></li>
 </ul>
 
 <h2 class="section-title subsection-title">Membership</h2>
