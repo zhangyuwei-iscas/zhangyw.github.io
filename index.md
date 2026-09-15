@@ -11,7 +11,7 @@ layout: home
   I am currently an associate professor at the <a href="https://www.tcse.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Beijing Key Laboratory of Intelligent Software Engineering</a>,
   <a href="https://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software Chinese Academy of Sciences (ISCAS)</a>.
   Prior to joining ISCAS, I spent two years as a Postdoctoral Associate with the SEKE Lab in the <a href="https://hcst.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Key Laboratory of High Confidence Software Technologies, Ministry of Education</a>
-  at <a href="https://www.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University (PKU)</a>, co-hosted by <a href="https://faculty.pku.edu.cn/zhijin/" target="_blank" rel="noopener noreferrer">Prof. Zhi Jin</a> and <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Prof. Ge Li</a>. I received my Ph.D. in Computer Science and Technology from the <a href="https://scs.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science (National Pilot Software Engineering School)</a> at <a href="https://www.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing University of Posts and Telecommunications (BUPT)</a>, under the supervision of <a href="https://scs.bupt.edu.cn/info/1292/2713.htm/" target="_blank" rel="noopener noreferrer">Prof. Yunzhan Gong</a>.
+  at <a href="https://www.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University (PKU)</a>, co-hosted by <a href="https://faculty.pku.edu.cn/zhijin/" target="_blank" rel="noopener noreferrer">Prof. Zhi Jin</a> and <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Prof. Ge Li</a>. I received my Ph.D. in Computer Science and Technology from the <a href="https://scs.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science (National Pilot Software Engineering School)</a> at <a href="https://www.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing University of Posts and Telecommunications (BUPT)</a>, under the supervision of <a href="https://sklnst.bupt.edu.cn/info/1026/1193.htm/" target="_blank" rel="noopener noreferrer">Prof. Yunzhan Gong</a>.
 </p>
 
 <p>
@@ -32,7 +32,7 @@ layout: home
 <!-- ==========================================================================
      EXPERIENCE SECTION
      ========================================================================== -->
-<h1 id="experience" class="section-title">💼 Educational & Work Experience</h1>
+<h1 id="experience" class="section-title">💼 Educational & Employment Experience</h1>
 
 <div class="exp-card">
   <div class="exp-header">
@@ -56,7 +56,7 @@ layout: home
 
 <div class="exp-card">
   <div class="exp-header">
-    <div class="exp-title">🧑‍🔬 Post-Doctoral Research Fellow</div>
+    <div class="exp-title">👨‍🏫 Post-Doctoral Research Fellow</div>
     <div class="exp-org">
       <span>🏢 Peking University</span>
     </div>
@@ -120,7 +120,7 @@ layout: home
 <h1 id="publications" class="section-title">📝 Publications</h1>
 
 <div class="publications-toolbar">
-  <p class="muted-note">(<sup>✉️</sup> denotes corresponding author.)</p>
+  <p class="muted-note">(✉️ denotes corresponding author)</p>
   <p class="muted-note">Last updated: 2026-03-25 &middot; <a href="https://dblp.uni-trier.de/pid/95/8351-3.html" target="_blank" rel="noopener noreferrer">[DBLP]</a></p>
 </div>
 
@@ -318,111 +318,22 @@ layout: home
      ========================================================================== -->
 <h1 id="services" class="section-title">🤝 Academic Services</h1>
 
+<h2 class="section-title subsection-title">Conference Program Committee</h2>
+
+<ul class="modern-list">
+  <li><span class="modern-list-date">2027</span><span class="modern-list-content">➤ <span class="conf-chip c">MSR</span></span></li>
+</ul>
+
 <h2 class="section-title subsection-title">External Conference Reviewer</h2>
 
-<h3 class="subsection-title" style="color: var(--accent-color);">2027</h3>
-<div class="service-grid">
-  <div class="service-tile conf-a">
-    <div class="tile-header">
-      <span class="tile-conf-name">ICSE</span>
-    </div>
-  </div>
-</div>
-
-<h3 class="subsection-title" style="color: var(--accent-color);">2026</h3>
-<div class="service-grid">
-  <div class="service-tile conf-a">
-    <div class="tile-header">
-      <span class="tile-conf-name">FSE</span>
-    </div>
-  </div>
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">APSEC</span>
-    </div>
-  </div>
-</div>
-
-<h3 class="subsection-title" style="color: var(--accent-color);">2025</h3>
-<div class="service-grid">
-  <div class="service-tile conf-a">
-    <div class="tile-header">
-      <span class="tile-conf-name">ASE</span>
-    </div>
-  </div>
-  <div class="service-tile conf-b">
-    <div class="tile-header">
-      <span class="tile-conf-name">SANER</span>
-    </div>
-  </div>
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">APSEC</span>
-    </div>
-  </div>
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">QRS</span>
-    </div>
-  </div>
-</div>
-
-<h3 class="subsection-title" style="color: var(--accent-color);">2024</h3>
-<div class="service-grid">
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">APSEC</span>
-    </div>
-  </div>
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">QRS</span>
-    </div>
-  </div>
-</div>
-
-<h3 class="subsection-title" style="color: var(--accent-color);">2023</h3>
-<div class="service-grid">
-  <div class="service-tile conf-b">
-    <div class="tile-header">
-      <span class="tile-conf-name">SANER</span>
-    </div>
-  </div>
-  <div class="service-tile conf-b">
-    <div class="tile-header">
-      <span class="tile-conf-name">ICSOC</span>
-    </div>
-  </div>
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">APSEC</span>
-    </div>
-  </div>
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">ICST</span>
-    </div>
-  </div>
-</div>
-
-<h3 class="subsection-title" style="color: var(--accent-color);">2022</h3>
-<div class="service-grid">
-  <div class="service-tile conf-b">
-    <div class="tile-header">
-      <span class="tile-conf-name">ISSRE</span>
-    </div>
-  </div>
-  <div class="service-tile conf-b">
-    <div class="tile-header">
-      <span class="tile-conf-name">SANER</span>
-    </div>
-  </div>
-  <div class="service-tile conf-c">
-    <div class="tile-header">
-      <span class="tile-conf-name">ICSE-SEIP</span>
-    </div>
-  </div>
-</div>
+<ul class="modern-list">
+  <li><span class="modern-list-date">2027</span><span class="modern-list-content">➤ <span class="conf-chip a">ICSE</span></span></li>
+  <li><span class="modern-list-date">2026</span><span class="modern-list-content">➤ <span class="conf-chip a">FSE</span> <span class="conf-chip c">APSEC</span></span></li>
+  <li><span class="modern-list-date">2025</span><span class="modern-list-content">➤ <span class="conf-chip a">ASE</span> <span class="conf-chip b">SANER</span> <span class="conf-chip c">APSEC</span> <span class="conf-chip c">QRS</span></span></li>
+  <li><span class="modern-list-date">2024</span><span class="modern-list-content">➤ <span class="conf-chip c">APSEC</span> <span class="conf-chip c">QRS</span></span></li>
+  <li><span class="modern-list-date">2023</span><span class="modern-list-content">➤ <span class="conf-chip b">SANER</span> <span class="conf-chip b">ICSOC</span> <span class="conf-chip c">APSEC</span> <span class="conf-chip c">ICST</span></span></li>
+  <li><span class="modern-list-date">2022</span><span class="modern-list-content">➤ <span class="conf-chip b">ISSRE</span> <span class="conf-chip b">SANER</span> <span class="conf-chip c">ICSE-SEIP</span></span></li>
+</ul>
 
 <h2 class="section-title subsection-title">Journal Reviewer</h2>
 
@@ -457,6 +368,7 @@ layout: home
 <h1 id="teaching" class="section-title">📖 Teaching</h1>
 
 <ul class="modern-list">
+  <li><span class="modern-list-date">Fall 2026</span><span class="modern-list-content"><strong>Advanced Software Engineering</strong>, Teaching Assistant, University of Chinese Academy of Sciences</span></li>
   <li><span class="modern-list-date">Fall 2021</span><span class="modern-list-content"><strong>Formal Language and Automata</strong>, Teaching Assistant, Peking University</span></li>
 </ul>
 
@@ -466,7 +378,7 @@ layout: home
 <h1 id="honors" class="section-title">🎖 Honors & Awards</h1>
 
 <ul class="modern-list">
-  <li><span class="modern-list-date">Sep 2024</span><span class="modern-list-content"><strong>Excellent Young Scientists of Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所优秀青年科技人才计划)</strong></span></li>
-  <li><span class="modern-list-date">Jan 2024</span><span class="modern-list-content"><strong>中国开放指令生态 (RISC-V) 联盟生态贡献奖</strong></span></li>
-  <li><span class="modern-list-date">Aug 2020</span><span class="modern-list-content"><strong>China Scholarship Council Scholarship (Joint-Training Ph.D. Program)</strong></span></li>
+  <li><span class="modern-list-date">2024</span><span class="modern-list-content"><strong>Excellent Young Scientists of Institute of Software, Chinese Academy of Sciences (中国科学院软件研究所优秀青年科技人才计划)</strong></span></li>
+  <li><span class="modern-list-date">2024</span><span class="modern-list-content"><strong>中国开放指令生态 (RISC-V) 联盟生态贡献奖</strong></span></li>
+  <li><span class="modern-list-date">2020</span><span class="modern-list-content"><strong>China Scholarship Council Scholarship (Joint-Training Ph.D. Program)</strong></span></li>
 </ul>
