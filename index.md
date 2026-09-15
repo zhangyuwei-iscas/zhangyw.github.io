@@ -11,17 +11,17 @@ layout: home
   I am currently an associate professor at the <a href="https://www.tcse.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Beijing Key Laboratory of Intelligent Software Engineering</a>,
   <a href="https://www.iscas.ac.cn/" target="_blank" rel="noopener noreferrer">Institute of Software Chinese Academy of Sciences (ISCAS)</a>.
   Prior to joining ISCAS, I spent two years as a Postdoctoral Associate with the SEKE Lab in the <a href="https://hcst.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Key Laboratory of High Confidence Software Technologies, Ministry of Education</a>
-  at <a href="https://www.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University (PKU)</a>, co-hosted by <a href="https://faculty.pku.edu.cn/zhijin/" target="_blank" rel="noopener noreferrer">Prof. Zhi Jin</a> and <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Prof. Ge Li</a>. I received my Ph.D. in Computer Science and Technology from the <a href="https://scs.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science (National Pilot Software Engineering School)</a> at <a href="https://www.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing University of Posts and Telecommunications (BUPT)</a>, under the supervision of <a href="https://sklnst.bupt.edu.cn/info/1026/1193.htm/" target="_blank" rel="noopener noreferrer">Prof. Yunzhan Gong</a>.
+  at <a href="https://www.pku.edu.cn/" target="_blank" rel="noopener noreferrer">Peking University (PKU)</a>, co-hosted by <a href="https://faculty.pku.edu.cn/zhijin/" target="_blank" rel="noopener noreferrer">Prof. Zhi Jin</a> and <a href="https://ligechina.github.io/" target="_blank" rel="noopener noreferrer">Prof. Ge Li</a>. I received my Ph.D. from the <a href="https://scs.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">School of Computer Science (National Pilot Software Engineering School)</a> at <a href="https://www.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">Beijing University of Posts and Telecommunications (BUPT)</a>, under the supervision of <a href="https://sklnst.bupt.edu.cn/info/1026/1193.htm" target="_blank" rel="noopener noreferrer">Prof. Yunzhan Gong</a>.
 </p>
 
 <p>
-  I work on the intersection of <strong>Software Engineering</strong>, <strong>Artificial Intelligence</strong>, and <strong>System Software</strong>. I aim to build intelligent LLM-based agents that automatically assure the quality and reliability of software systems. To achieve this, my current projects explore the following directions:
+  I work on the intersection of <strong>Software Engineering</strong>, <strong>Artificial Intelligence</strong>, and <strong>System Software</strong>. I aim to build intelligent LLM-based agent systems that automatically assure the quality and reliability of basic software. To achieve this, my current projects explore the following directions:
 </p>
 
 <ul class="research-list">
-  <li>🎯 Empowering the automation of software development lifecycle (e.g., coding, testing, and maintenance) with LLM agents.</li>
-  <li>🎯 Enhancing the reliability of system software (e.g., database systems, Web applications, and RISC-V basic software) with LLM agents.</li>
-  <li>🎯 Assuring the trustworthiness of LLMs and multi-agent systems (e.g., content security, collaboration ability, and failure attribution).</li>
+  <li>🎯 Empowering the <strong>automation</strong> of software development lifecycle (e.g., bug fixing, unit testing, and package maintenance) with LLM agents.</li>
+  <li>🎯 Enhancing the <strong>resilience</strong> of system software (e.g., database systems, cloud-native applications, and RISC-V basic software) with LLM agents.</li>
+  <li>🎯 Assuring the <strong>trustworthiness</strong> of LLMs and multi-agent systems (e.g., content security, collaboration ability, and agent failure attribution).</li>
 </ul>
 
 <div class="recruit-callout">
