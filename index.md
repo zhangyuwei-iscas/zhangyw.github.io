@@ -62,20 +62,15 @@ layout: home
 <!-- ==========================================================================
      PUBLICATIONS SECTION
      ========================================================================== -->
-<h1 id="publications" class="section-title">📝 Publications</h1>
+<h1 id="publications" class="section-title">📝 Publications <span class="title-note">(✉️ denotes corresponding author)</span></h1>
 
-<div class="publications-toolbar">
-  <p class="muted-note">(✉️ denotes corresponding author)</p>
-  <p class="muted-note">Last updated: 2026-03-25 &middot; <a href="https://dblp.uni-trier.de/pid/95/8351-3.html" target="_blank" rel="noopener noreferrer">[DBLP]</a></p>
-</div>
-
-<h2 id="refereed-papers" class="section-title subsection-title">Refereed Journal &amp; Conference</h2>
+<h2 id="refereed-papers" class="section-title subsection-title">Peer-Reviewed Papers</h2>
 
 <h3 class="subsection-title" style="color: var(--accent-color);">2026</h3>
 
 <div class="paper-card">
   <div class="paper-title">Understanding Code Similarity across Instruction Set Architectures: An Empirical Study</div>
-  <div class="paper-authors">Haonan Yu, Jiaxin Zhu, Yingying Zheng, <strong>Yuwei Zhang</strong>, Wei Wang, Jun Wei, Tao Huang</div>
+  <div class="paper-authors">Haonan Yu, Jiaxin Zhu <sup>✉️</sup>, Yingying Zheng, <strong>Yuwei Zhang</strong>, Wei Wang, Jun Wei, Tao Huang</div>
   <div class="paper-meta">
     <span class="conf-badge">FSE 2026</span>
     <span class="ccf-badge">CCF-A</span>
@@ -85,7 +80,7 @@ layout: home
 
 <div class="paper-card">
   <div class="paper-title">Toward Efficient Package Maintenance: An Empirical Study of Patch Sharing across Four Linux Distributions</div>
-  <div class="paper-authors">Jian Peng, Jiaxin Zhu, <strong>Yuwei Zhang</strong>, Wei Chen, Guoquan Wu, Wei Wang, Jun Wei</div>
+  <div class="paper-authors">Jian Peng, Jiaxin Zhu <sup>✉️</sup>, <strong>Yuwei Zhang</strong>, Wei Chen, Guoquan Wu, Wei Wang, Jun Wei</div>
   <div class="paper-meta">
     <span class="conf-badge">ICSE 2026</span>
     <span class="ccf-badge">CCF-A</span>
@@ -150,7 +145,7 @@ layout: home
 
 <div class="paper-card">
   <div class="paper-title">Defect Category Prediction Based on Multi-Source Domain Adaptation (基于多源域适应的缺陷类别预测方法)</div>
-  <div class="paper-authors">Ying Xing <sup>✉️</sup>, Mengci Zhao, Bin Yang, <strong>Yuwei Zhang</strong> <sup>✉️</sup>, Wenjin Li, Jiawei Gu, Jun Yuan</div>
+  <div class="paper-authors">Ying Xing, Mengci Zhao, Bin Yang, <strong>Yuwei Zhang</strong> <sup>✉️</sup>, Wenjin Li, Jiawei Gu, Jun Yuan</div>
   <div class="paper-meta">
     <span class="conf-badge">JOS 2024</span>
     <span class="ccf-badge">CCF-A</span>
