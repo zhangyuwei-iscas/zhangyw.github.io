@@ -709,7 +709,7 @@ a:hover {
   color: #d9bc74;
 }
 
-/* Inline CCF-rank chips for the per-year reviewer list (same tints as tiles above) */
+/* Inline CCF-rank chips for the per-year reviewer list (same tints as .ccf-badge) */
 .conf-chip {
   display: inline-flex;
   align-items: center;
@@ -730,21 +730,21 @@ a:hover {
 }
 
 .conf-chip.a {
-  background: #fffbeb;
+  background: #fde68a;
+  border-color: #f59e0b;
+  color: #92400e;
+}
+
+.conf-chip.b {
+  background: #fef3c7;
   border-color: #fcd34d;
   color: #b45309;
 }
 
-.conf-chip.b {
-  background: #fffdf3;
-  border-color: #fee9b0;
-  color: #c99a3b;
-}
-
 .conf-chip.c {
-  background: #fffefa;
-  border-color: #fff3d6;
-  color: #d9bc74;
+  background: #fffbeb;
+  border-color: #fde68a;
+  color: #b45309;
 }
 
 .tile-years {
@@ -862,10 +862,41 @@ a:hover {
   letter-spacing: 0.3px;
 }
 
+/* Rank tints fade A -> C */
+.ccf-badge.a {
+  background: #fde68a;
+  border-color: #f59e0b;
+  color: #92400e;
+}
+
+.ccf-badge.b {
+  background: #fef3c7;
+  border-color: #fcd34d;
+}
+
+.ccf-badge.c {
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+
+.ccf-badge.q1 {
+  background: #eff6ff;
+  border-color: #bfdbfe;
+  color: #1a4e8a;
+}
+
+.paper-venue .ccf-badge {
+  white-space: nowrap;
+}
+
 .paper-venue {
   font-size: 0.85rem;
   color: var(--muted-text);
   line-height: 1.55;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
 }
 
 .paper-venue em {
@@ -879,10 +910,8 @@ a:hover {
 }
 
 .paper-links {
-  margin-top: 3px;
-  display: flex;
-  gap: 7px;
-  flex-wrap: wrap;
+  display: inline-flex;
+  gap: 5px;
 }
 
 .paper-btn {
