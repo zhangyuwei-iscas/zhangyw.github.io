@@ -30,61 +30,6 @@ layout: home
 </div>
 
 <!-- ==========================================================================
-     EXPERIENCE SECTION
-     ========================================================================== -->
-<h1 id="experience" class="section-title">💼 Educational & Employment Experience</h1>
-
-<div class="exp-card">
-  <div class="exp-header">
-    <div class="exp-title">👨‍🏫 Associate Professor</div>
-    <div class="exp-org">
-      <span>🏢 Institute of Software Chinese Academy of Sciences</span>
-    </div>
-    <div class="exp-date"><span>📅</span><span>Oct. 2025 &#8211; Present</span></div>
-  </div>
-</div>
-
-<div class="exp-card">
-  <div class="exp-header">
-    <div class="exp-title">👨‍🏫 Assistant Professor</div>
-    <div class="exp-org">
-      <span>🏢 Institute of Software Chinese Academy of Sciences</span>
-    </div>
-    <div class="exp-date"><span>📅</span><span>Aug. 2023 &#8211; Oct. 2025</span></div>
-  </div>
-</div>
-
-<div class="exp-card">
-  <div class="exp-header">
-    <div class="exp-title">👨‍🏫 Post-Doctoral Research Fellow</div>
-    <div class="exp-org">
-      <span>🏢 Peking University</span>
-    </div>
-    <div class="exp-date"><span>📅</span><span>Sep. 2021 &#8211; Jul. 2023</span></div>
-  </div>
-</div>
-
-<div class="exp-card">
-  <div class="exp-header">
-    <div class="exp-title">🎓 Ph.D. in Computer Science and Technology</div>
-    <div class="exp-org">
-      <span>🏢 Beijing University of Posts and Telecommunications</span>
-    </div>
-    <div class="exp-date"><span>📅</span><span>Sep. 2016 &#8211; Jun. 2021</span></div>
-  </div>
-</div>
-
-<div class="exp-card">
-  <div class="exp-header">
-    <div class="exp-title">🎓 B.E. in Network Engineering</div>
-    <div class="exp-org">
-      <span>🏢 Beijing University of Posts and Telecommunications</span>
-    </div>
-    <div class="exp-date"><span>📅</span><span>Sep. 2012 &#8211; Jun. 2016</span></div>
-  </div>
-</div>
-
-<!-- ==========================================================================
      NEWS SECTION
      ========================================================================== -->
 <h1 id="news" class="section-title">🔥 News</h1>
@@ -310,6 +255,61 @@ layout: home
   <div class="paper-venue">In: Soft Computing</div>
   <div class="paper-links">
     <a href="https://zhangyw.work/file/papers/Zhang2019SOCO.pdf" class="paper-btn paper-btn-primary" target="_blank" rel="noopener noreferrer">PDF</a>
+  </div>
+</div>
+
+<!-- ==========================================================================
+     EXPERIENCE SECTION
+     ========================================================================== -->
+<h1 id="experience" class="section-title">💼 Educational & Employment Experience</h1>
+
+<div class="exp-card">
+  <div class="exp-header">
+    <div class="exp-title">👨‍🏫 Associate Professor</div>
+    <div class="exp-org">
+      <span>🏢 Institute of Software Chinese Academy of Sciences</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Oct. 2025 &#8211; Present</span></div>
+  </div>
+</div>
+
+<div class="exp-card">
+  <div class="exp-header">
+    <div class="exp-title">👨‍🏫 Assistant Professor</div>
+    <div class="exp-org">
+      <span>🏢 Institute of Software Chinese Academy of Sciences</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Aug. 2023 &#8211; Oct. 2025</span></div>
+  </div>
+</div>
+
+<div class="exp-card">
+  <div class="exp-header">
+    <div class="exp-title">👨‍🏫 Post-Doctoral Research Fellow</div>
+    <div class="exp-org">
+      <span>🏢 Peking University</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Sep. 2021 &#8211; Jul. 2023</span></div>
+  </div>
+</div>
+
+<div class="exp-card">
+  <div class="exp-header">
+    <div class="exp-title">🎓 Ph.D. in Computer Science and Technology</div>
+    <div class="exp-org">
+      <span>🏢 Beijing University of Posts and Telecommunications</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Sep. 2016 &#8211; Jun. 2021</span></div>
+  </div>
+</div>
+
+<div class="exp-card">
+  <div class="exp-header">
+    <div class="exp-title">🎓 B.E. in Network Engineering</div>
+    <div class="exp-org">
+      <span>🏢 Beijing University of Posts and Telecommunications</span>
+    </div>
+    <div class="exp-date"><span>📅</span><span>Sep. 2012 &#8211; Jun. 2016</span></div>
   </div>
 </div>
 
