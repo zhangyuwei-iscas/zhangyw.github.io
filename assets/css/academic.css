@@ -1022,15 +1022,10 @@ a:hover {
   color: var(--accent-color);
 }
 
-.site-footer .footer-flag {
+.site-footer .footer-counter {
   margin: 0 0 6px;
-}
-
-.site-footer .footer-flag img {
-  border-radius: 8px;
-  max-width: 100%;
-  height: auto;
-  vertical-align: middle;
+  font-size: 0.85rem;
+  color: var(--muted-text);
 }
 
 /* ==========================================================================
